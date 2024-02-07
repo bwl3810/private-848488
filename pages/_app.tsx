@@ -216,9 +216,9 @@ export default function App() {
                           }}
                           color="white"
                         >
-                          Cynikbot has been unavailable for a year for personal reasons.Nevertheless, 76 servers have continued to use Cynikbot to a limited extent, for which many thanks! 
-A completely revised version including a new dashboard will be released soon!
-Thank you for your loyalty and for using Cynikbot!
+                          Cynikbot has been unavailable for a year for personal reasons.<br />Nevertheless, 76 servers have continued to use Cynikbot to a limited extent, for which many thanks! <br />
+A completely revised version including a new dashboard will be released soon!<br /><br />
+Thank you for your loyalty and for using Cynikbot!<br /><br />
 Written by Maurice#3831 on 07.02.2024
                         </Heading>
                       </div>
