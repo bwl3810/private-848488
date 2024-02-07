@@ -69,7 +69,7 @@ export default function App() {
     return (
       <>
         <Head>
-          <title>Pogy - Coming Soon</title>
+          <title>Cynikbot Dashboard</title>
         </Head>
         <ChakraProvider
           theme={extendTheme({
@@ -148,7 +148,7 @@ export default function App() {
                           lg: "0px 0px 36px rgba(255, 255, 255, 0.5)",
                         }}
                       >
-                        pogy
+                        Cynikbot
                       </Heading>
                     </Header>
                     <SubHeadingWrapper>
@@ -197,13 +197,18 @@ export default function App() {
                             base: "2rem",
                             md: "4rem",
                             lg: "5rem",
+                            paddingtop: "10rem",
+                
                           }}
                           fontFamily={"Futura xblk bt"}
                           lineHeight={{
                             base: "46px",
                             md: "46px",
                             lg: "66px",
+                          
                           }}
+                          
+                          
                         >
                           Welcome!
                         </Heading>
