@@ -30,6 +30,7 @@ export const MainHeaderWrapper = styled.div`
   align-items: center;
   justify-content: center;
   padding-top: 4rem;
+  padding-bottom: 3rem;
   gap: 1rem;
 
   @media (max-width: 768px) {
