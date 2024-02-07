@@ -205,7 +205,7 @@ export default function App() {
                             lg: "66px",
                           }}
                         >
-                          Yes, we are live!
+                          Willkommen bei Cynikbot!
                         </Heading>
                         <Heading
                           as="h2"
@@ -216,8 +216,10 @@ export default function App() {
                           }}
                           color="white"
                         >
-                          We are working hard on getting the app ready for you.
-                          Keep refreshing the page.
+                          Cynikbot has been unavailable for a year for personal reasons.Nevertheless, 76 servers have continued to use Cynikbot to a limited extent, for which many thanks! 
+A completely revised version including a new dashboard will be released soon!
+Thank you for your loyalty and for using Cynikbot!
+Written by Maurice#3831 on 07.02.2024
                         </Heading>
                       </div>
                     </BodyWrapperDone>
